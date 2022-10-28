@@ -28,6 +28,7 @@ compatible with KiraZ.sh
 ## Roadmap
 
 - Add more info
+- Add more language
 
 
 ## Option
@@ -40,3 +41,7 @@ Change language with 2 way :
     - ```bash
         kiraz setlanguage phonelocalisator fr/en
 
+
+## Contributing
+
+Thanks to billythegoat356 for "pystyle" and to daviddrysdale for "python-phonenumbers"
