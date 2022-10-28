@@ -40,8 +40,6 @@ Change language with 2 way :
 - with kiraz.sh
     - ```bash
         kiraz setlanguage phonelocalisator fr/en
-
-
 ## Contributing
 
 Thanks to billythegoat356 for "pystyle" and to daviddrysdale for "python-phonenumbers"
